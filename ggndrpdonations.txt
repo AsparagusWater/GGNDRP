@@ -1,0 +1,61 @@
+Donation List:
+
+VIP: $10
+-Prop Limit Increased to 55
+-Access to VIP+ Tier Jobs
+-$100,000 of Ingame cash
+ VIP Jobs:
+CTU Operator
+CTU Squad Leader
+Assassin
+Black Hat Hacker
+Professional Thief
+Insurgent
+
+VIP: $15
+-Prop Limit Increased to 60
+-Access to VIP Tier Jobs
+-$150,000 of Ingame cash
+
+Bayonet Knife: $5
+
+Bowie Knife: $5
+
+Butterfly Knife: $5
+
+Falchion Knife: $5
+
+Flip Knife: $5
+
+Gut Knife: $5
+
+Huntsman Knife: $5
+
+Karambit Knife: $5
+
+M9 Bayonet Knife: $5
+
+Shadow Daggers: $5
+
+
+Custom Job: $20
+Job Name:
+Job Model: (Extra fees apply if not in content pack)
+Job Primary Weapons:
+Job Sidearms: (Any Handgun/Revolver)
+Job Slots:
+Police: (Yes or No. If yes then normal Police rules apply)
+
+Pricing
+$3 Per Sidearn (Revolvers/Handguns Only)
+$5 Per Additional Weapons (Any Primary)
+$5 Per Additional Slots (Base is 1, maximum of 5)
+$5 Fee To Change Job’s Items
+$3 Fee If You Want A Model Not In The Server’s Content Pack (Maximum of 8mb, if the model is in a pack it will be extracted and seperated for further evaluation)
+
+Custom Weapon Addition: $10
+-Custom modified TFA weapon on the server of your choosing to have on your custom job
+-Different stats can be modified to make it unique
+-Must be verified with Water before it can be made (If it does not exist irl, then it will not be made)
+-Counts as a Primary Weapon (Addition to job at standard rate)
+-Can only be used on your custom job of your creation
