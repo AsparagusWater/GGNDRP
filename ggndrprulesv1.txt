@@ -1,0 +1,115 @@
+Geetsly's Gaming Network Dark Roleplay Rules Guidelines
+
+All punishment guidelines and general rules are outlined on our Network-Wide Code of Play, found here: http://gmoddev.com/Geetsly%E2%80%99s%20Gaming%20Community.pdf
+
+(Disclaimer: Some language mentioned in the Code of Play was designed around a PvE gamemode server. So staff ranks like Gamemasters do not apply to this server)
+
+
+- General Rules (Not specified in the CoP)
+
+1. Don't prop minge. This includes prop climb, surf, kill, block, bridge, push, trap or spam. (Punished as Exploiting in CoP)
+2. Don't create offensive or inappropriate text signs. (Punished as FailRP in CoP)
+3. Don't use an inappropriate RP name. (Punished as FailRP in CoP)
+4. Leave the admins to do their jobs, if they're busy then be patient and wait for them to finish.
+5. Scamming during vendor transactions or any roleplay transactions is not allowed whatsoever. (Punished as FailRP in CoP)
+6. No CP helping. You must be a government affiliated job to intervene in any police activity. (Punished as FailRP in CoP)
+7. Overall, use common sense and have fun.
+8. You may not build a base in public location (Exceptions detailed below) (Punished as FailRP in CoP)
+9. Multi-Adverts (Adverts that have multiple meanings, Exp; "/advert Raid/Raid assist/Mug/Kidnap) are strictly prohibited (Exceptions detailed below) (Punished as FailRP in CoP).
+10. You may only inflict damage against another person in self defense (They must damage you first) Unless you are a hitman job, or in a raid.
+
+
+
+- Building Rules (Punished as FailRP in CoP)
+
+1. While building, put up a sign that says "Building" to let others know you are not roleplaying.
+2. Do not interfere with people that have a "Building" sign.
+3. Whilst building, you may not have ANY raidable entities inside of your base (Shipments, printers, bitminers, etc.)
+4. You may have up to 3 fading doors for an entrance to your base. An additional fading doors may be used for a printer vaults and shooting windows.
+5. All shooting windows must be activated by a lever or button directly next to them. Usage of a keybind to activate windows is strictly prohibited.
+6. Do not abuse the fading door tool. (Using the numpad to constantly spam it or open and close it quickly)
+7. Keypads must be connected to a working fading door.
+8. Keypads must have a hold length of 5 seconds for fading doors. (With a 0 initial delay)
+9. Do not create tiny cracks in your base that raiders cannot see.(Headshot and footshot traps)
+10. All shooting windows must be at shoulder level to head level regardless of distance.
+11. No disorienting advantages such as black rooms, fully invisible props, or world glow effects.
+12. Do not store entities on inaccessible rooftops or inaccessible areas in general.
+13. Sky bases are not allowed. (Bases that are not connected to the ground directly below them)
+14. Mega-Bases (Bases that use more than one building) must involve 4 or more people owning all buildings completely with staff permission
+15. To own a building, you must own all doors associated with that building.
+16. Crouch/Jump bases (Bases that you cannot walk normally through without interacting with one of those two actions) is strictly prohibited.
+17. A player must be able to enter and exit your building using a keypad cracker or a lockpick.
+18. Any and all RP actions are strictly prohibited in spawn.
+
+
+
+- Raiding Rules (Punished as FailRP in CoP)
+
+1. You must Advert a Raid everytime you attempt a raid
+2. NLR (New Life Rule) states that after dying in a raid, you may not return to the building until the raid cooldown is finished.
+3. If a multi-person raid commences, each member must advert "Raid Assist" after the first raid advert is said.
+4. Base takeovers (Staying in someone elses base after they are killed claiming ownership) is strictly prohibited.
+5. Base loitering (Staying inside a raided base after the owner has been killed) is prohibited.
+6. You must Advert "Raid Over" once a raid on a building has finished. Once done the Raid Cooldown will begin.
+7. Raid Cooldown (Whether completed or failed) is 10 minutes. Raid Cooldown on the same base (Whether completed or failed) is 20 minutes.
+8. Once calling raid, you may kill any person inside of the building at your own volition.
+
+- PD Raiding Rules (Punished as FailRP in CoP)
+1. All previous raiding rules still apply (Unless stated otherwise)
+2. Any PD raid must be started with someone adverting "PD Raid".
+3. Assisting in a PD raid must be announced with a "PD Raid Assist" advert.
+4. NLR cooldown for returning Police is 60 seconds, raiders may not return after death.
+
+
+
+- Mugging Rules (Punished as FailRP in CoP)
+1. You must advert "Mug" and state your price in the advert.
+2. Maximum mug price is $10,000
+3. Mug cooldown is 5 minutes.
+4. Muggings can only be done in a public setting (Not in any building)
+
+
+
+
+- Job specific rules (Punished as FailRP in CoP)
+
+Gun Dealers: 
+1. Self supplying is strictly prohibted, you may only use the default handgun provided or any previously owned weapons to defend yourself
+
+Police: 
+1. Corruption (Not following police guidelines) is prohibited.
+2. RDA (Random Arrest) is prohibited.
+3. You may create a toll in front of the Police Department if there is an active Mayor.
+
+Mayor:
+1. Laws specified around specific jobs is prohibited.
+2. Any RDM law is prohibited.
+3. Any law retracting any server rule is prohibited.
+
+Kidnapper:
+1. Kidnapping actions may only be committed by the Kidnapper job.
+2. You must advert "Kidnap".
+3. Maximum kidnap ransom price is $100,000
+4. Mug cooldown is 20 minutes.
+5. You may only hold someone kidnapped for 15 minutes until they are let go or executed.
+
+Hitman/Assassin:
+1. Hitman actions actions may only be committed by the Hitman/Assassin jobs.
+2. You must advert "Hit accepted" whenever accepting a hit.
+3. Government personel may not request a hit under any circumstances.
+
+DJ/Hobo/Hobo Leader:
+1. You may build a small shack on the side of the road.
+
+Blood/Bloodz Leader:
+1. Acts as a normal thief, but cannot base with any Crip related job.
+
+Crip/Cripz Leader:
+1. Acts as a normal thief, but cannot base with any Blood related job.
+
+Insurgent:
+1. You must advert "Terror" to begin a Terror Attack.
+2. A Terror Attack permits you to RDM anyone in a public venue for 15 seconds (Unless you are killed).
+3. You may not use a Terror in any privately owned building.
+4. Terror Cooldown is 15 minutes.
+5. A Terror Attack cannot be used to raid a building.
